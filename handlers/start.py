@@ -11,7 +11,7 @@ async def start_(client: Client, message: Message):
     await message.delete()
     await message.reply_sticker("CAACAgUAAxkBAAPLYqsvOXrTAjFEQ_JYoxVQO2LPkDMAAgkGAAKyxVhVulwgGjIafHUkBA")
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/336544dbebf58dadb1e6f.jpg",
+        photo=f"https://te.legra.ph/file/4dd710e7274a416b56f78.jpg",
         caption=f"""**━━━━━━━━━━━━━━━━━━
 💔 ʜᴇʏ {message.from_user.mention()} !
 
